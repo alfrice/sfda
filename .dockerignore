@@ -1,0 +1,10 @@
+.history
+
+.venv
+.env
+
+.gitignore
+
+.git
+.dockerignore
+Dockerfile
